@@ -1,4 +1,4 @@
-# timbrelite-server
+# Timbrelite Server
 
 [![CircleCI](https://circleci.com/gh/adriangonz/timbrelite-server.svg?style=shield&circle-token=0553dee2b0d94b2637fd99cb98b9450128cb6c33)](https://circleci.com/gh/adriangonz/timbrelite-server)
 
