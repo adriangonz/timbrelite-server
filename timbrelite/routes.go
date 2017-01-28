@@ -17,5 +17,5 @@ var routes = Routes{
 		"POST",
 		"/ring",
 		Ring,
-	}
+	},
 }
